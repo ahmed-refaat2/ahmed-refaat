@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(207, 212, 221);
+    text-align: center;
+}
+
+.maindiv{
+    margin-left: 20%;max-width: 500px;
+    background-color:rgb(120, 201, 170); 
+}
+
